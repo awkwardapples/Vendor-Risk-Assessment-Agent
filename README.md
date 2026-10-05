@@ -1,6 +1,6 @@
 #   Vendor Risk Asessment AI Agent
 
-This is a lightweight, end-to-end AI Vendor Risk Assessment Agent prototype designed to be demoed at Cognita REPLY. This demo will be adapted into a full hackathon project as a submission for the Open Agent Hackathon 2026.
+This is a lightweight, end-to-end AI Vendor Risk Assessment Agent prototype designed to be demoed at Cognita REPLY. This demo premise will be the inspiration behind a full hackathon project building on the premise in a completely new submission for the Open Agent Hackathon 2026.
 
 **to change localhost ports:**
 
