@@ -1,0 +1,20 @@
+[
+  {
+    "id": "vendor_001",
+    "name": "Acme Analytics",
+    "processes_pii": true,
+    "security_controls": "We apply industry-standard security controls where appropriate.",
+    "certifications": ["SOC2"],
+    "data_location": "EU",
+    "incident_history": "No known breaches reported."
+  },
+  {
+    "id": "vendor_002",
+    "name": "QuickMail SaaS",
+    "processes_pii": true,
+    "security_controls": "Basic access controls implemented.",
+    "certifications": [],
+    "data_location": "US",
+    "incident_history": "Minor incident in 2022, resolved."
+  }
+]

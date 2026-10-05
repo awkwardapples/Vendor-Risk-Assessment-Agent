@@ -1,0 +1,10 @@
+{
+  "high_risk": {
+    "no_certifications": true,
+    "pii_outside_eu": true
+  },
+  "medium_risk": {
+    "vague_security_controls": true,
+    "previous_incident": true
+  }
+}

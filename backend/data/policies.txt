@@ -1,0 +1,7 @@
+Vendors processing personal data must demonstrate appropriate technical and organisational security measures.
+
+Vendors without recognised certifications such as SOC2 or ISO27001 require manual security review.
+
+Vendors processing EU personal data outside the EU must undergo enhanced assessment.
+
+Any vendor with previous security incidents must be reviewed by the security team.
